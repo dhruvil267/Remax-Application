@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.Properties.Resources.resources
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Remax\Remax\bin\Debug\Remax.exe.config
+C:\Users\Admin\Desktop\Remax\Remax\bin\Debug\Remax.exe
+C:\Users\Admin\Desktop\Remax\Remax\bin\Debug\Remax.pdb
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.exe
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.pdb
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.frmMain.resources
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.FrmUser.resources
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.FrmAdmin.resources
+C:\Users\Admin\Desktop\Remax\Remax\obj\Debug\Remax.FrmAgent.resources
